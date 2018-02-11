@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Azkar</string>
+    <string name="title_activity_azkar" translatable="false">AzkarActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_alert">Set Alarm</string>
+
+    <string name="key_morning">morning</string>
+    <string name="summary_morning">early day alert</string>
+    <string name="title_morning">Time Morning</string>
+    <string name="default_morning" translatable="false">420</string>
+
+    <string name="key_evening">evening</string>
+    <string name="summary_evening">end of day alert</string>
+    <string name="title_evening">Time evening</string>
+    <string name="default_evening" translatable="false">1080</string>
+
+    <!-- Strings related to Notifications -->
+    <string name="notification_text_morning">Don\'t Forget Azkar elSba7</string>
+    <string name="notification_title_morning">Azkar El Sba7</string>
+
+    <string name="notification_text_evening">Don\'t Forget Azkar elSba7</string>
+    <string name="notification_title_evening">Azkar El Sba7</string>
+
+
+    notification_text
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أذكاري</string>
+    <string name="action_settings">الأعدادات</string>
+    <string name="title_activity_settings">الأعدادات</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">ألغاء</string>
+    <string name="set_alert">ضبط المنبه</string>
+    <string name="summary_morning">تنبيه أذكار الصباح</string>
+    <string name="title_evening">تنبيه أذكار المساء</string>
+    <string name="title_morning">الصباح</string>
+    <string name="summary_evening">المساء</string>
+</resources>

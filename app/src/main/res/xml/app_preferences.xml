@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.preference.PreferenceCategory android:title="@string/set_alert">
+
+        <android.magician.com.myazkar.TimePreference
+            style="@style/AppPreference.DialogPreference"
+            android:defaultValue="@string/default_morning"
+            android:key="@string/key_morning"
+            android:summary="@string/summary_morning"
+            android:title="@string/title_morning" />
+
+        <android.magician.com.myazkar.TimePreference
+            style="@style/AppPreference.DialogPreference"
+            android:defaultValue="@string/default_evening"
+            android:key="@string/key_evening"
+            android:summary="@string/summary_evening"
+            android:title="@string/title_evening" />
+
+    </android.support.v7.preference.PreferenceCategory>
+
+</android.support.v7.preference.PreferenceScreen>
